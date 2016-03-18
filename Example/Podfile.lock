@@ -1,0 +1,14 @@
+PODS:
+  - OriginateActionSheet (0.0.1)
+
+DEPENDENCIES:
+  - OriginateActionSheet (from `../`)
+
+EXTERNAL SOURCES:
+  OriginateActionSheet:
+    :path: ../
+
+SPEC CHECKSUMS:
+  OriginateActionSheet: a64d4c1d48e7e87d3a5cb35f2baadca13bd99b89
+
+COCOAPODS: 0.39.0
