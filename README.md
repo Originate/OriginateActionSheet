@@ -29,9 +29,5 @@ Add the following line wherever you want to access the framework:
 @import OriginateActionSheet;
 ```
 
-## High Level Intro
-
-...
-
 # License
 OriginateActionSheet is available under the MIT license. See the LICENSE file for more info.
